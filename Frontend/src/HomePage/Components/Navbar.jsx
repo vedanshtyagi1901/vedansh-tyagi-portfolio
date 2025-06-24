@@ -13,7 +13,7 @@ function Navbar() {
           <button onClick={() => setIsOpen(!isOpen)} className="text-3xl md:hidden">
             {isOpen ? '✖' : '☰'}
           </button>
-          {"</Vedansh>"}
+          {"<Vedansh/>"}
         </div>
 
         {/* Desktop Nav */}

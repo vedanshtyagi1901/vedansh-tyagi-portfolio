@@ -6,7 +6,7 @@ function Footer() {
             <div className="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-4">
                 {/* Left: Logo */}
                 <div className="flex items-center gap-3">
-                    <span className="flex items-center gap-3 font-bold text-2xl text-white font-kalam" style={{ textShadow: '2px 2px 4px rgba(0,0,0,0.3)' }}>{`</Vedansh>`}</span>
+                    <span className="flex items-center gap-3 font-bold text-2xl text-white font-kalam" style={{ textShadow: '2px 2px 4px rgba(0,0,0,0.3)' }}>{`<Vedansh/>`}</span>
                 </div>
 
                 {/* Center: Social Icons */}
