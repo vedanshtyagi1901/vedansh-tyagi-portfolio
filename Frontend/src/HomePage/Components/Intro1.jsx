@@ -24,7 +24,7 @@ function Intro1() {
                         </div>
                         <div className='bg-[#e0c4f9] w-full py-3'>
                             <h1 className='font-bold text-center text-xl my-2'>1</h1>
-                            <p className='text-center'>Hackethon</p>
+                            <p className='text-center'>Hackathon</p>
                         </div>
                     </div>
                 </div>
