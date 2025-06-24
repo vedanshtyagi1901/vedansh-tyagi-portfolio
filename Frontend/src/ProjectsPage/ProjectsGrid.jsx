@@ -6,7 +6,7 @@ const allProjects = [
     description: 'A personal portfolio website to showcase my work and skills.',
     tech: ['React', 'CSS', 'TypeScript'],
     live: '#',
-    github: '#',
+    github: 'https://github.com/vedanshtyagi1901/vedansh-tyagi-portfolio',
     image: '/PortfolioWebsiteLogo.png',
   },
   {
@@ -14,7 +14,7 @@ const allProjects = [
     description: "Real Time intrusion detection system that blocks suspicious IP's based on HTTP protocols",
     tech: ['Node.js', 'Express', 'MongoDB'],
     live: '#',
-    github: '#',
+    github: 'https://github.com/vedanshtyagi1901/RT-IDS',
     image: '/RTIDSLogo.png',
   },
   // Add more projects as needed i have created a functionality for load more...
